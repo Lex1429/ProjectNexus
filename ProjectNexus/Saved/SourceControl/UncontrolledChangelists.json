@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/System/BP_GameModeGame.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/System/BP_ControllerGame.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/System/BP_PlayerInstance.uasset",
 				"/Users/alexanderfernandez/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Levels/TestLevel.umap"
 			]
 		}
