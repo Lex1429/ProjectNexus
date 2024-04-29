@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/alexanderfernandez/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Levels/TestLevel.umap",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/Characters/BP_BaseCharacterClass.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Levels/MissionSetUp.umap",
 				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/System/BP_GameModeGame.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/System/BP_ControllerGame.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/System/BP_PlayerInstance.uasset",
@@ -130,9 +133,7 @@
 				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Animations/TempAnimations/Dying/Dying_Anim_mixamo_com.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Animations/TempAnimations/Interact/Interact1.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Animations/TempAnimations/Interact/MAT_PolygonSciFiSpace_01_A.uasset",
-				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/Characters/BP_Fabricator.uasset",
-				"/Users/alexanderfernandez/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Levels/TestLevel.umap",
-				"/Users/alexanderfernandez/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/Characters/BP_BaseCharacterClass.uasset"
+				"C:/Users/Apex1/Documents/Unreal Projects/ProjectNexus/ProjectNexus/Content/Blueprints/Characters/BP_Fabricator.uasset"
 			]
 		}
 	]
